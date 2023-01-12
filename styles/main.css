@@ -34,6 +34,7 @@ h4 {
 p {
     font-family: system-ui, cursive;
     font-size: 17pt;
+    color: honeydew;
 }
 
 strong {
@@ -184,4 +185,11 @@ img.picture {
 div.contact_info {
     display: flex;
     justify-content: center;
+}
+
+p.bio_details {
+    color: honeydew;
+    padding: 236px;
+    font-family: system-ui, cursive;
+    font-size: 17pt;
 }
