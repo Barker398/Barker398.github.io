@@ -3,8 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;400;600;700&family=Righteous&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;1,300;1,700&display=swap');
 
-
-
 h1 {
     /* text-transform: uppercase; */
     font-family: 'Squada One', cursive;
@@ -52,11 +50,11 @@ a {
     text-decoration: none;
     color: honeydew;
 }
+
 a:hover {
     color: rgb(8, 89, 119);
     font-weight: bold;
     text-shadow: 2px 2px #240d6dad;
-
 }
 
 h2.subpage--contact {
@@ -70,7 +68,8 @@ h2.subpage--contact {
     padding: 0 80px;
     align-items: center;
     flex-wrap: wrap;
-    font-family: 'Caveat', cursive;;
+    font-family: 'Caveat', cursive;
+    ;
 }
 
 
@@ -81,7 +80,7 @@ h2.subpage--contact {
     justify-content: flex-end;
 }
 
-    
+
 ul.nav_links {
     list-style: none;
 }
@@ -96,7 +95,6 @@ ul.nav_links {
     flex-wrap: wrap;
     width: 100%;
 }
-
 
 .header_text {
     flex: 1;
@@ -121,17 +119,14 @@ h2.title {
     color: red;
 }
 
-
 img.picture {
     border-radius: 224px;
     height: 450px;
-  
 }
 
-
 .footer {
-    background-color:rgb(19, 5, 221);
-    color:honeydew;
+    background-color: rgb(19, 5, 221);
+    color: honeydew;
     display: flex;
     flex: 1;
     justify-content: space-around;
@@ -139,7 +134,7 @@ img.picture {
     font-size: smaller;
     padding: 2em;
     margin-top: 40px;
-  }
+}
 
 .nav_list {
     display: flex;
@@ -155,29 +150,28 @@ img.picture {
 .contact {
     display: flex;
     flex-wrap: wrap;
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .technologies {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .projects {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .resume {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
-
 .home {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .title {
